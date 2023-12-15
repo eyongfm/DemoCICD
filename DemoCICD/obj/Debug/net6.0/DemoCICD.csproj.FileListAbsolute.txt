@@ -1,0 +1,12 @@
+E:\pmn-devops\DemoCICD\DemoCICD\bin\Debug\net6.0\DemoCICD.deps.json
+E:\pmn-devops\DemoCICD\DemoCICD\bin\Debug\net6.0\DemoCICD.dll
+E:\pmn-devops\DemoCICD\DemoCICD\bin\Debug\net6.0\DemoCICD.pdb
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.csproj.AssemblyReference.cache
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.GeneratedMSBuildEditorConfig.editorconfig
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.AssemblyInfoInputs.cache
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.AssemblyInfo.cs
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.csproj.CoreCompileInputs.cache
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.dll
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\refint\DemoCICD.dll
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\DemoCICD.pdb
+E:\pmn-devops\DemoCICD\DemoCICD\obj\Debug\net6.0\ref\DemoCICD.dll
